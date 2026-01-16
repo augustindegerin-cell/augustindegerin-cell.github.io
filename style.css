@@ -1,0 +1,52 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 720px;
+  margin: 70px auto;
+  padding: 0 20px;
+  color: #111;
+  line-height: 1.65;
+  background-color: #fff;
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  font-size: 1.05em;
+  margin: 0;
+}
+
+.contact {
+  margin-top: 10px;
+  font-size: 0.95em;
+}
+
+h2 {
+  margin-top: 45px;
+  font-size: 1.35em;
+}
+
+p {
+  margin: 12px 0;
+}
+
+ul {
+  margin-top: 8px;
+  margin-bottom: 18px;
+  padding-left: 18px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
